@@ -1,0 +1,2 @@
+git status -- it checks to see what new files or new changes are in your project
+git . -- all the files in red 
