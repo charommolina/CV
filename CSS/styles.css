@@ -1,0 +1,24 @@
+
+body {background-color:#f5f1da;
+ }
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {color: #065c6f;
+
+}
+h3 {color: #64958f
+
+}
+
+/*CLASS SELECTORS*/
+.heading: {color:grey;
+
+}
+/*ID SELECTORS*/
+/*PSEUDO CLASS*/
